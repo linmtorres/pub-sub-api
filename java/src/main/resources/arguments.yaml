@@ -21,9 +21,9 @@ USERNAME: sourceful@marketing-logic.com.dev
 # Your Salesforce Password
 PASSWORD: cOZq9ADz*of$wcua
 # Your Salesforce org Tenant ID
-TENANT_ID: null
+TENANT_ID: 00D26000000Hxrb
 # Your Salesforce Session Token
-ACCESS_TOKEN: null
+ACCESS_TOKEN: 6Cel800D26000000Hxrb88826000000GDxkHFRiUrPhNJAFe9hpaEUDMkuoipViqV7pbu8Yzt8XRoGJCgTE6mepwSLAQd0ro2kFw4p02wEz
 
 # =========================
 # Optional configurations:

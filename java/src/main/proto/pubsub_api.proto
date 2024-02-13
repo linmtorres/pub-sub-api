@@ -233,9 +233,9 @@ message PublishResponse {
  * as metadata headers (https://www.grpc.io/docs/guides/concepts/#metadata) with their method call.
  *
  * For Salesforce session token authentication, use:
- *   accesstoken : access token
- *   instanceurl : Salesforce instance URL
- *   tenantid : tenant/org id of the client
+ *   accesstoken : 6Cel800D26000000Hxrb88826000000GDxkHFRiUrPhNJAFe9hpaEUDMkuoipViqV7pbu8Yzt8XRoGJCgTE6mepwSLAQd0ro2kFw4p02wEz
+ *   instanceurl : https://ruby-energy-3237--dev.sandbox.lightning.force.com/lightning/page/home
+ *   tenantid : 00D26000000Hxrb
  *
  * StatusException is thrown in case of response failure for any request.
  */
